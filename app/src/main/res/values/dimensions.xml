@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">24dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="drawablePadding">4dp</dimen>
+    <dimen name="buttonPadding">12dp</dimen>
+    <dimen name="xsPadding">2dp</dimen>
+    <dimen name="smPadding">8dp</dimen>
+    <item name="alpha" format="float" type="dimen">0.2</item>
+</resources>

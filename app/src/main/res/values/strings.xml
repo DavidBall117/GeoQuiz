@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="score_text">Score: %2d / %2d</string>
+    <string name="cheat_text">Cheat Tokens: %2d</string>
+    <string name="question_australia">%2d. Canberra is the capital of Australia.</string>
+    <string name="question_oceans">%2d. The pacific ocean is larger than the atlantic ocean.</string>
+    <string name="question_mideast">%2d. The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">%2d. The source of Nile River is in Egypt.</string>
+    <string name="question_americas">%2d. The Amazon River is the longest river in the americas.</string>
+    <string name="question_asia">%2d. Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="result_image">Result image.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment">You are a filthy cheater.</string>
+    <string name="info_button">Additional information.</string>
+    <string name="info">Try to get some questions right. You got 3 cheat tokens, don\'t waste \'em eh.</string>
+    <string name="dismiss">Close</string>
+</resources>
